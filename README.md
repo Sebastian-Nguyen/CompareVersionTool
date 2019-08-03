@@ -3,7 +3,7 @@
 	+ xyz_root (pom.xml)
 	+ xyz_module_1 (pom.xml)
 	+ xyz_module_2 (pom.xml)
-	...
+	+ ...
 	+ xyz_module_n (pom.xml)
 
 # XYZ Version Comparison
