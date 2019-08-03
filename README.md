@@ -7,7 +7,7 @@
 	+ xyz_module_n (pom.xml)
 
 # XYZ Version Comparison
-This is the tool that automatically compares the version of each xyz module with its version in xyz_root.
+This is the tool that automatically compares the version of each xyz module with its version in xyz_root and then save the result to a csv file.
 
 # Installing
  
