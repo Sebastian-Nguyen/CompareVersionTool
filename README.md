@@ -1,6 +1,6 @@
 # Project directory structure
 - path/to/project_dir
-	+ xyz_root (pom.xml)
+	+ xyz_root (pom.xml, parent)
 	+ xyz_module_1 (pom.xml)
 	+ xyz_module_2 (pom.xml)
 	+ ...
